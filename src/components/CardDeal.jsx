@@ -11,12 +11,17 @@ const CardDeal = () => (
         Find a Better Card Deal in <br className="sm:block hidden" /> few easy
         steps
       </h2>
-      <p className={`${styles.paragraph} mt-10 max-w-[470px]`}>
+      <p
+        className={`${styles.paragraph} mt-10 max-w-[470px] sm:text-left text-center`}
+      >
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio,
         deleniti. Alias veritatis pariatur atque corrupti tenetur quam illo quos
         nemo!
       </p>
-      <Button value="Get Started" styles="mt-10 rounded-[10px]" />
+      <Button
+        value="Get Started"
+        styles="mt-10 rounded-[10px] sm:mx-[0px] mx-auto"
+      />
     </div>
     <div className={layout.sectionImg}>
       <img

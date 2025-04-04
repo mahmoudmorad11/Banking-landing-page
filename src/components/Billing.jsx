@@ -10,8 +10,8 @@ const Billing = () => (
         alt="Billing Image"
       />
       <div className="w-[50%] h-[50%] absolute z-[5] white__gradient -left-1/2 top-0" />
-      <div className="w-[50%] h-[50%] absolute z-[5] white__gradient -left-1/2 top-0" />
-      <div className="w-[50%] h-[50%] absolute z-[3] pink__gradient -left-1/2 bottom-0" />
+      {/* <div className="w-[50%] h-[50%] absolute z-[5] white__gradient -left-1/2 top-0" /> */}
+      {/* <div className="w-[50%] h-[50%] absolute z-[3] pink__gradient -left-1/2 bottom-0" /> */}
       <div className="w-[50%] h-[50%] absolute z-[3] pink__gradient -left-1/2 bottom-0" />
     </div>
     <div

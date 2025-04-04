@@ -11,6 +11,7 @@ import {
   Testimonials,
   Hero,
 } from "./components";
+
 const App = () => (
   <div className="bg-primary w-full oveflow-hidden">
     <div className={`${styles.paddingX} ${styles.flexCenter} w-full`}>

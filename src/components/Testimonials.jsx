@@ -7,8 +7,8 @@ const Testimonials = () => (
     id="clients"
     className={`${styles.flexCenter} ${styles.paddingY} flex-col relative`}
   >
-    {/* <div className="absolute z-0 w-[60%] h-[60%] -right-[50%] rounded-full blue__gradient" /> */}
-    {/* <div className="absolute z-[0] w-[60%] h-[60%] -right-[50%] rounded-full blue__gradient overflow-hidden" /> */}
+    {/* <div className="absolute z-0 w-[60%] h-[60%] -right-[50%] rounded-full blue__gradient" style={{position: "absolute"}} /> */}
+    <div class="w-[50%] h-[50%] right-[20px] absolute z-[0] rounded-full blue__gradient opacity-50"></div>
     <div className="w-full flex justify-between items-center md:flex-row flex-col sm-mb-16 mb:6 relative z-[1]">
       <h2 className={styles.heading2}>
         What People Are <br className="sm:block hidden" /> Saying About Us
