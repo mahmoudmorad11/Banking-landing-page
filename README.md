@@ -1,6 +1,4 @@
 
-# Bankning landing page
-
 # 💰 Banking Landing Page
 
 A modern, responsive banking landing page built with **React** and deployed on **Vercel**. This project showcases a professional landing experience for a fictional digital bank, emphasizing sleek UI/UX, performance, and mobile responsiveness.
