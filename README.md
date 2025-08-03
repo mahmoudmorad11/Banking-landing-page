@@ -36,12 +36,13 @@ Live demo 👉 https://banking-landing-page-git-main-mahmoud-morads-projects.ver
 
 ## 📂 Project Structure
 
-<pre> ├── public/              # Static assets
+<pre> 
+├── public/             
 ├── src/
-│   ├── components/      # Reusable UI components
-│   ├── assets/          # Images, icons
-│   ├── App.js           # Main component
-│   └── index.js         # Entry point
+│   ├── components/     
+│   ├── assets/          
+│   ├── App.js          
+│   └── index.js        
 ├── tailwind.config.js
 ├── package.json
 └── README.md </pre>
